@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.mercury.Extent_Report_Example">
+        <methods>
+          <include name="Sign_On_Success"/>
+          <include name="closeBrowser"/>
+          <include name="startReport"/>
+          <include name="getResult"/>
+        </methods>
+      </class> <!-- com.mercury.Extent_Report_Example -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

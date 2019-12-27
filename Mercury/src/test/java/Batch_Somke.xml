@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" thread-count="1" parallel="tests">
+  <test name="Test">
+    <classes>
+      
+      <class name="com.mercury.Drag_Drop_Example"/>
+      <class name="com.mercury.NvigateAllLinks"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
